@@ -1,0 +1,17 @@
+{
+    "name": "china-yang/sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ChinaYang\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yang",
+            "email": "10223078+liu-yang-613@user.noreply.gitee.com"
+        }
+    ],
+    "require": {}
+}
